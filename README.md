@@ -1,5 +1,5 @@
 # Step-by-Step-Checker
-**Совместим с** - https://github.com/Zubin1398/BrutForce-Minecraft-accounts-mod  /  https://github.com/Zubin1398/TAB-Parser-mod-Forge-1.20.1
+**Совместим с** - [BrutForce-Minecraft-accounts-mod](https://github.com/Zubin1398/BrutForce-Minecraft-accounts-mod/tree/main)  /  [TAB-Parser-mod-Forge-1.20.1](https://github.com/Zubin1398/TAB-Parser-mod-Forge-1.20.1/tree/main)
 # 🛠️ [K] Stepper — модуль автоматизации проверок
 
 Userscript для автоматизации рутинных проверок, сбора результатов и управления очередью обработки хешей. Предоставляет пошаговый и автоматический режимы, фильтрацию результатов и удобный интерфейс для работы с данными.
