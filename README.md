@@ -1,4 +1,4 @@
-# Step-by-Step-Checker
+
 **Совместим с** - [BrutForce-Minecraft-accounts-mod](https://github.com/Zubin1398/BrutForce-Minecraft-accounts-mod/tree/main)  /  [TAB-Parser-mod-Forge-1.20.1](https://github.com/Zubin1398/TAB-Parser-mod-Forge-1.20.1/tree/main)
 # 🛠️ [K] Stepper — модуль автоматизации проверок
 
